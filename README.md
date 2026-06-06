@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirantan112&theme=dark)](https://git.io/streak-stats)
+![Chirantan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&theme=react&bg_color=0d1117&hide_border=true)
