@@ -1,3 +1,1 @@
-## 📈 Contribution Graph
-
-[![Chirantan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&theme=github-dark)](https://github.com/Chirantan112)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirantan112&theme=github_dark)
