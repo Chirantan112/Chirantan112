@@ -4,4 +4,4 @@
 
 [![Chirantan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&bg_color=1e222a&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirantan112&theme=github_dark)
+[![Chirantan's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirantan112&theme=nord)](https://github.com/vn7n24f1tr56-old/github-profile-summary-cards)
