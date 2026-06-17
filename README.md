@@ -2,6 +2,6 @@
 
 [![Chirantan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chirantan112&show_icons=true&bg_color=1e222a&title_color=ffffff&text_color=d8dee9&icon_color=4c566a&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghvc/?username=Chirantan112&color=88c0d0&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://api.visitorbadge.io/api/visitors?page=Chirantan112&countColor=%231e222a&labelColor=%2388c0d0&style=flat)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chirantan112&theme=github_dark)
