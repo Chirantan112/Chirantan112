@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px" />
+
 <h3 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h3>
 
 [![Chirantan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirantan112&background=1e222a&stroke=1e222a&ring=88c0d0&fire=88c0d0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=88c0d0&sideLabels=ffffff&dates=d8dee9)](https://git.io/streak-stats)
