@@ -10,4 +10,4 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="25px" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="25px" style="filter: hue-rotate(165deg) saturate(1.5) brightness(1.2);" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="25px" style="filter: hue-rotate(165deg) saturate(1.5) brightness(10);" />
