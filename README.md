@@ -9,7 +9,3 @@
 [![Chirantan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&bg_color=1e222a&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="25px" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="25px" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif?v=2" width="100%" height="25px" />
