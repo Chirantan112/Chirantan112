@@ -47,8 +47,10 @@
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/MarvAmbass/MarvAmbass/master/active.gif" alt="Kali Linux" width="55" height="55" />
-      <br>Kali Linux
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/593d6477e3df28d6fcf4a30e/1501170669255-7NUK5L64IK4UTV1M5A1B/Kali_Linux_Logo.gif">
+  <img alt="Kali Linux" src="https://images.squarespace-cdn.com/content/v1/593d6477e3df28d6fcf4a30e/1501170669255-7NUK5L64IK4UTV1M5A1B/Kali_Linux_Logo.gif" width="40" height="40" align="center" />
+</picture>
     </td>
   </tr>
 </table>
