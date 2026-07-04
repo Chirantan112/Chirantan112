@@ -47,7 +47,7 @@
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="55" height="55" />
+      <img src="https://raw.githubusercontent.com/MarvAmbass/MarvAmbass/master/active.gif" alt="Kali Linux" width="55" height="55" />
       <br>Kali Linux
     </td>
   </tr>
