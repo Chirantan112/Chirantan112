@@ -46,6 +46,10 @@
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
       <br>VS Code
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="55" height="55" />
+      <br>Kali Linux
+    </td>
   </tr>
 </table>
 </div>
