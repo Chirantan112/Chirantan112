@@ -1,48 +1,49 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <h2 align="left"><font color="#88c0d0">💻 Technical Skills & Frameworks</font></h2>
+
 <div align="center">
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+      <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="icon" width="55" height="55" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+      <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="icon" width="55" height="55" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
       <br>Java
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
+      <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="55" height="55" />
       <br>C
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="55" height="55" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="icon" width="55" height="55" />
       <br>VS Code
     </td>
   </tr>
