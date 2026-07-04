@@ -39,7 +39,7 @@
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-invert-icon.svg" alt="GitHub" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
       <br>GitHub
     </td>
     <td align="center" width="96">
