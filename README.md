@@ -4,12 +4,12 @@
 <div align="center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/AnandChowdhary/tech-stack/HEAD/assets/html.svg" alt="HTML5" width="55" height="55" />
+   <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/AnandChowdhary/tech-stack/HEAD/assets/css.svg" alt="CSS3" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
