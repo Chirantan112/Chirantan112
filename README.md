@@ -46,12 +46,6 @@
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
       <br>VS Code
     </td>
-    <td align="center" width="96">
-      <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/593d6477e3df28d6fcf4a30e/1501170669255-7NUK5L64IK4UTV1M5A1B/Kali_Linux_Logo.gif">
-  <img alt="Kali Linux" src="https://images.squarespace-cdn.com/content/v1/593d6477e3df28d6fcf4a30e/1501170669255-7NUK5L64IK4UTV1M5A1B/Kali_Linux_Logo.gif" width="40" height="40" align="center" />
-</picture>
-    </td>
   </tr>
 </table>
 </div>
