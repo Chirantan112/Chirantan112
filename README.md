@@ -7,6 +7,14 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
@@ -26,33 +34,6 @@
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
       <br>C++
     </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-      <br>CSS3
-    </td>
-  </tr>
-</table>
-</div>
-
-<br />
-
-<!-- OPERATING SYSTEMS CATEGORY -->
-<h3 align="left">Operating Systems</h3>
-<div align="left">
-<table>
-  <tr>
-    <td align="center" valign="middle" width="96">
-      <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/profiles/cyberpunk/images/kali.gif" alt="Kali Linux" width="55" height="55" />
-      <br>Kali Linux
-    </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="55" height="55" />
-      <br>Windows
-    </td>
   </tr>
 </table>
 </div>
@@ -69,12 +50,31 @@
       <br>Git
     </td>
     <td align="center" valign="middle" width="96">
-      <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/profiles/cyberpunk/images/github.gif" alt="GitHub" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
       <br>GitHub
     </td>
     <td align="center" valign="middle" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
       <br>VS Code
+    </td>
+  </tr>
+</table>
+</div>
+
+<br />
+
+<!-- OPERATING SYSTEMS CATEGORY -->
+<h3 align="left">Operating Systems</h3>
+<div align="left">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="55" height="55" />
+      <br>Windows
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="55" height="55" />
+      <br>Kali Linux
     </td>
   </tr>
 </table>
