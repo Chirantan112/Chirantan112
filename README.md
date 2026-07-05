@@ -1,48 +1,78 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-<h2 align="left"><font color="#88c0d0">💻 Technical Skills & Frameworks</font></h2>
+<h2 align="left"><font color="#88c0d0">🛠️ Tech Stack</font></h2>
 
-<div align="center">
-<table align="center">
+<!-- LANGUAGES CATEGORY -->
+<h3 align="left">Languages</h3>
+<div align="left">
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
       <br>Java
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
       <img src="https://skillicons.dev/icons?i=c" alt="C" width="55" height="55" />
       <br>C
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+</table>
+</div>
+
+<br />
+
+<!-- OPERATING SYSTEMS CATEGORY -->
+<h3 align="left">Operating Systems</h3>
+<div align="left">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="96">
+      <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/profiles/cyberpunk/images/kali.gif" alt="Kali Linux" width="55" height="55" />
+      <br>Kali Linux
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="55" height="55" />
+      <br>Windows
+    </td>
+  </tr>
+</table>
+</div>
+
+<br />
+
+<!-- TOOLS CATEGORY -->
+<h3 align="left">Tools</h3>
+<div align="left">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="96">
       <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
       <br>Git
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+    <td align="center" valign="middle" width="96">
+      <img src="https://raw.githubusercontent.com/gayanvoice/github-profile-readme-templates/main/profiles/cyberpunk/images/github.gif" alt="GitHub" width="55" height="55" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
+    <td align="center" valign="middle" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
       <br>VS Code
     </td>
