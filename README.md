@@ -1,78 +1,62 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <h2 align="left"><font color="#88c0d0">🛠️ Tech Stack</font></h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-<h2 align="left"><font color="#88c0d0">🛠️ Tech Stack</font></h2>
-
 <!-- LANGUAGES CATEGORY -->
 <h3 align="left">Languages</h3>
-<p align="left">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-</p>
 
-<br />
+<div align="left">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
 
-<!-- TOOLS CATEGORY -->
-<h3 align="left">Tools</h3>
-<p align="left">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="GitHub" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-</p>
-
-<br />
-
-<!-- PLATFORMS CATEGORY -->
-<h3 align="left">Platforms</h3>
-<p align="left">
-  <picture>
-    <img src="https://skillicons.dev/icons?i=windows" width="50" height="50" alt="Windows" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-  <picture>
-    <img src="https://skillicons.dev/icons?i=kali" width="50" height="50" alt="Kali Linux" style="margin-right: 10px; margin-bottom: 10px;" />
-  </picture>
-</p>
-
-<br />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-<hr height="5px" />
-
-<h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
-
-[![Chirantan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirantan112&background=1e222a&stroke=1e222a&ring=88c0d0&fire=88c0d0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=88c0d0&sideLabels=ffffff&dates=d8dee9)](https://git.io/streak-stats)
-
-[![Chirantan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chirantan112&show_icons=true&bg_color=1e222a&title_color=ffffff&text_color=d8dee9&icon_color=4c566a&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
-
-[![Chirantan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&bg_color=1e222a&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-<hr height="5px" />
+  <tr>
+    <td align="center" valign="middle" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
+      <br>C
+    </td>
+    <td align="center" valign="middle" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" valign="middle" width="96">
+    </td>
+  </tr>
+</table>
+</div>
 
 <br />
 
