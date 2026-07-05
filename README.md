@@ -64,7 +64,7 @@
 <br />
 
 <!-- OPERATING SYSTEMS CATEGORY -->
-<h3 align="left">Operating Systems</h3>
+<h3 align="left">Platforms</h3>
 <div align="left">
 <table>
   <tr>
