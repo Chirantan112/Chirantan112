@@ -3,6 +3,7 @@
 
 <!-- LANGUAGES CATEGORY -->
 <h3 align="left">Languages</h3>
+
 <div align="left">
 <table>
   <tr>
@@ -15,26 +16,26 @@
       <br>CSS3
     </td>
     <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
       <br>Python
     </td>
   </tr>
 
   <tr>
     <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
       <br>Java
     </td>
     <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=c" alt="C" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
       <br>C
     </td>
     <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
       <br>C++
     </td>
     <td align="center" valign="middle" width="96">
