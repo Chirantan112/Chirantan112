@@ -23,9 +23,6 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
       <br>Python
     </td>
-  </tr>
-
-  <tr>
     <td align="center" valign="middle" width="80">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
       <br>Java
