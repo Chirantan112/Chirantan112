@@ -7,38 +7,33 @@
 <div align="left">
 <table>
   <tr>
-    <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
       <br>CSS3
     </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
       <br>Python
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55" alt="Java" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />
       <br>Java
     </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
       <br>C
     </td>
-    <td align="center" valign="middle" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="55" height="55" alt="C++" />
+    <td align="center" valign="middle" width="80">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" />
       <br>C++
-    </td>
-    <td align="center" valign="middle" width="96">
     </td>
   </tr>
 </table>
