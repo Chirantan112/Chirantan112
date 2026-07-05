@@ -22,6 +22,9 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
+  </tr>
+
+  <tr>
     <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
       <br>Java
@@ -33,6 +36,8 @@
     <td align="center" valign="middle" width="96">
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
       <br>C++
+    </td>
+    <td align="center" valign="middle" width="96">
     </td>
   </tr>
 </table>
