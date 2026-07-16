@@ -18,13 +18,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-     # Step 2: Generate the snake animation SVG files (Iceberg Deep Glow)
+     # Step 2: Generate the snake animation SVG files (Iceberg Custom)
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#88c0d0&color_dots=#1a2332,#3b536b,#5c84a4,#7da6cd,#9ed8f6
+            dist/github-contribution-grid-snake.svg?color_snake=#88c0d0&color_dots=#161b22,#2e4252,#4c6e8d,#6b9bc8,#88c0d0
             
       # Step 3: Push the generated SVG to the output branch
       - name: Push to Output Branch
