@@ -102,5 +102,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chirantan112/Chirantan112/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Chirantan112/Chirantan112/output/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 </div>
