@@ -101,3 +101,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161b22,50:202938,100:88c0d0&amp;height=100&amp;section=footer" width="100%" alt="Iceberg Wave Footer" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=88C0D0&center=true&vCenter=true&width=500&height=50&lines=Building+MERN+Apps;Penetration+Testing+%26+OSINT;Cracking+DSA+Challenges" alt="Typing SVG" />
+</div>
