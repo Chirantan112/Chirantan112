@@ -1,9 +1,9 @@
-name: Generate Profile Assets
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 */12 * * *" # Runs every 12 hours automatically
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Allows you to run it manually
   push:
     branches:
     - main
@@ -16,10 +16,11 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Step 1: Check out the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 1. Generate the classic 2D Snake
+      # Step 2: Generate the snake animation SVG files (Your original working step!)
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,20 +28,20 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#88c0d0
 
-      # 2. Generate the 3D Isometric Skyline (Nord/Iceberg Palette)
+      # Step 3: Generate the 3D Isometric Skyline
       - name: Generate 3D Profile Calendar
         uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # 3. Move the 3D files to the distribution directory
+      # Step 4: Organize files so they both go to the output branch
       - name: Organize output files
         run: |
           mkdir -p dist
-          mv-n profile-3d-contrib/* dist/ || true
-
-      # 4. Push all generated assets to your 'output' branch
+          mv -n profile-3d-contrib/* dist/ || true
+            
+      # Step 5: Push both the Snake AND 3D graph to the output branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
