@@ -96,12 +96,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <hr height="5px" />
 
-<h2 align="left"><font color="#88c0d0">## 🐍 Contribution Snake</font></h2>
+<h2 align="left"><font color="#88c0d0">🐍 Contribution Snake</font></h2>
 <br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chirantan112/Chirantan112/output/github-contribution-grid-snake.svg?v=4" alt="GitHub Contribution Snake" width="100%" />
 </div>
 <br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+<hr height="5px" />
 
 <br />
 <div align="center">
