@@ -100,3 +100,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161b22,50:202938,100:88c0d0&amp;height=100&amp;section=footer" width="100%" alt="Iceberg Wave Footer" />
 </div>
+
+<div align="center">
+  <img src="https://deers.ows.im/v1/badge/Java?labelColor=161b22&color=88c0d0&style=glow" alt="Java" />
+  <img src="https://deers.ows.im/v1/badge/React?labelColor=161b22&color=88c0d0&style=glow" alt="React" />
+  <img src="https://deers.ows.im/v1/badge/Python?labelColor=161b22&color=88c0d0&style=glow" alt="Python" />
+  <img src="https://deers.ows.im/v1/badge/Linux?labelColor=161b22&color=88c0d0&style=glow" alt="Linux" />
+</div>
