@@ -20,28 +20,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the snake animation SVG files (Your original working step!)
+      # Step 2: Generate the snake animation SVG files (Original Version)
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#88c0d0
-
-      # Step 3: Generate the 3D Isometric Skyline
-      - name: Generate 3D Profile Calendar
-        uses: yoshi389111/github-profile-3d-contrib@0.7.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      # Step 4: Organize files so they both go to the output branch
-      - name: Organize output files
-        run: |
-          mkdir -p dist
-          mv -n profile-3d-contrib/* dist/ || true
             
-      # Step 5: Push both the Snake AND 3D graph to the output branch
+      # Step 3: Push the generated SVG to the output branch
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
