@@ -86,7 +86,7 @@
 
 <h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
 
-![Chirantan's GitHub Streak](https://streak-stats.demolab.com?user=Chirantan112&theme=iceberg)
+![Chirantan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chirantan112&theme=iceberg&hide_rank=true)
 
 [![Chirantan's GitHub Streak](https://streak-stats.demolab.com/?user=Chirantan112&background=1e222a&stroke=1e222a&ring=88c0d0&fire=88c0d0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=88c0d0&sideLabels=ffffff&dates=d8dee9)](https://git.io/streak-stats)
 
