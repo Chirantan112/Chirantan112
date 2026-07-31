@@ -85,6 +85,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <hr height="5px" />
 
+<!--GitHub Contribution Analytics-->
 <h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
 
 ![Chirantan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chirantan112&bg_color=1e222a&text_color=ffffff&icon_color=88c0d0&title_color=88c0d0&hide_rank=true)
