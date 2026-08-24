@@ -112,4 +112,3 @@
 <!--FOOTER WAVE-->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161b22,50:202938,100:88c0d0&amp;height=100&amp;section=footer" width="100%" alt="Iceberg Wave Footer" />
 </div>
-
