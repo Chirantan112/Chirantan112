@@ -295,6 +295,44 @@ long_term:
 
 <hr height="5px" />
 
+<!-- PROFESSIONAL LINKS -->
+<h2 align="left"><font color="#88c0d0">🌐 Connect & Explore</font></h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>💼 LinkedIn</h3>
+
+<p>Professional journey, learning milestones and career updates.</p>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<h3>🧩 LeetCode</h3>
+
+<p>DSA practice, problem solving and competitive programming progress.</p>
+
+<a href="YOUR_LEETCODE_URL">
+  <img src="https://img.shields.io/badge/Visit%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
 <!--GitHub Contribution Analytics-->
 <h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
 <!--First Card-->
