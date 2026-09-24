@@ -32,6 +32,7 @@
 
 <br />
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 <!-- ====================================================== -->
@@ -121,6 +122,8 @@ debugging, testing, and learning underneath it.
 
 <br />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
 <!-- ====================================================== -->
 <!--                    CURRENT MISSION                     -->
 <!-- ====================================================== -->
@@ -158,6 +161,8 @@ debugging, testing, and learning underneath it.
 
 <br />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
 <!-- ====================================================== -->
 <!--                 ENGINEERING MINDSET                    -->
 <!-- ====================================================== -->
@@ -183,6 +188,8 @@ debugging, testing, and learning underneath it.
 
 <br />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
 <!-- ====================================================== -->
 <!--                  CURRENTLY LEARNING                    -->
 <!-- ====================================================== -->
@@ -199,6 +206,8 @@ debugging, testing, and learning underneath it.
 </div>
 
 <br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 <!-- ====================================================== -->
 <!--                    TECH STACK                         -->
@@ -288,9 +297,10 @@ debugging, testing, and learning underneath it.
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <hr height="5px" />
 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 <!-- ====================================================== -->
 <!--                 GITHUB ANALYTICS                      -->
@@ -323,6 +333,8 @@ debugging, testing, and learning underneath it.
 
 <br />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
 <!-- ====================================================== -->
 <!--                 CONTRIBUTION SNAKE                     -->
 <!-- ====================================================== -->
@@ -345,7 +357,6 @@ debugging, testing, and learning underneath it.
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 <div align="center">
 
