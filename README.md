@@ -6,7 +6,7 @@
 
 # 👋 Hey, I'm **Chirantan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=88C0D0&center=true&vCenter=true&width=900&lines=AI+%26+Software+Engineering+Explorer;Building+intelligent+systems+from+strong+CS+fundamentals;DSA+%7C+Full-Stack+%7C+LLMs+%7C+Open+Source;Learning+by+building%2C+testing+and+iterating" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=88C0D0&center=true&vCenter=true&width=900&lines=AI+%26+Software+Engineering+Explorer;Building+intelligent+systems+with+strong+CS+fundamentals;DSA+%7C+Full-Stack+%7C+LLMs+%7C+Open+Source" alt="Typing introduction" />
 
 <p>
   <a href="https://github.com/Chirantan112">
@@ -151,49 +151,6 @@ debugging, testing, and learning underneath it.
 <br />
 
 <!-- ====================================================== -->
-<!--                 CURRENTLY BUILDING                     -->
-<!-- ====================================================== -->
-
-<h2 align="left"><font color="#88c0d0">🚧 Currently Building</font></h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>🤖 AI Engineering</strong>
-
-<p>Exploring LLM applications, agents, multimodal workflows and practical AI systems.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<strong>🧠 Problem Solving</strong>
-
-<p>Strengthening algorithmic thinking through DSA, patterns and deliberate practice.</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>🌐 Software Engineering</strong>
-
-<p>Learning to turn ideas into maintainable interfaces, APIs and usable products.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<strong>🌱 Open Source</strong>
-
-<p>Learning how real projects are reviewed, improved, tested and shipped collaboratively.</p>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<!-- ====================================================== -->
 <!--                 ENGINEERING MINDSET                    -->
 <!-- ====================================================== -->
 
@@ -219,46 +176,16 @@ debugging, testing, and learning underneath it.
 <br />
 
 <!-- ====================================================== -->
-<!--                    LEARNING PATH                       -->
-<!-- ====================================================== -->
-
-<h2 align="left"><font color="#88c0d0">📚 Learning Path</font></h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<strong>🧠 Computer Science</strong><br />
-<sub>DSA · Algorithms · Problem Solving</sub>
-</td>
-<td align="center" width="33%">
-<strong>🤖 AI Engineering</strong><br />
-<sub>LLMs · Agents · Applied AI</sub>
-</td>
-<td align="center" width="33%">
-<strong>🌐 Software Engineering</strong><br />
-<sub>Full Stack · APIs · Open Source</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-<!-- ====================================================== -->
 <!--                  CURRENTLY LEARNING                    -->
 <!-- ====================================================== -->
 
-<h2 align="left"><font color="#88c0d0">📖 Currently Learning</font></h2>
+<h2 align="left"><font color="#88c0d0">📚 Currently Learning</font></h2>
 
-<div align="center">
+<div align="left">
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-88c0d0?style=for-the-badge&labelColor=1e222a" alt="DSA" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Artificial Intelligence" />
-<img src="https://img.shields.io/badge/LLM%20Engineering-88c0d0?style=for-the-badge&labelColor=1e222a" alt="LLM Engineering" />
-<img src="https://img.shields.io/badge/Full--Stack%20Development-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Full Stack Development" />
+<img src="https://img.shields.io/badge/DSA-88c0d0?style=for-the-badge&labelColor=1e222a" alt="DSA" />
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-88c0d0?style=for-the-badge&labelColor=1e222a" alt="AI and LLMs" />
+<img src="https://img.shields.io/badge/Full--Stack-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Full Stack" />
 <img src="https://img.shields.io/badge/Open%20Source-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Open Source" />
 
 </div>
@@ -266,46 +193,10 @@ debugging, testing, and learning underneath it.
 <br />
 
 <!-- ====================================================== -->
-<!--                    QUICK FACTS                         -->
-<!-- ====================================================== -->
-
-<h2 align="left"><font color="#88c0d0">⚡ Quick Facts</font></h2>
-
-<details>
-<summary><strong>Tap to reveal</strong></summary>
-
-<br />
-
-```yaml
-mindset:
-  - learn by building
-  - understand before optimizing
-  - document what matters
-
-interests:
-  - artificial intelligence
-  - software engineering
-  - algorithms
-  - open source
-
-long_term:
-  - build useful products
-  - strengthen system-level thinking
-  - keep going deeper than the surface
-```
-
-</details>
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-
-<!-- ====================================================== -->
 <!--                    TECH STACK                         -->
 <!-- ====================================================== -->
 
 <!-- TECH STACK -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <!--Tech Stack-->
 <h2 align="left"><font color="#88c0d0">🛠️ Tech Stack</font></h2>
 
@@ -391,8 +282,6 @@ long_term:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <hr height="5px" />
-
-
 
 
 <!-- ====================================================== -->
