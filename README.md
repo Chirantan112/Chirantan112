@@ -9,12 +9,8 @@
   <a href="https://github.com/Chirantan112">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
 </p>
 
 </div>
@@ -208,43 +204,14 @@ long_term:
 
 <hr height="5px" />
 
-<!-- PROFESSIONAL LINKS -->
-<h2 align="left"><font color="#88c0d0">🌐 Connect & Explore</font></h2>
-
+<!-- PROFILE NAVIGATION -->
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-<h3>💼 LinkedIn</h3>
-
-<p>Professional journey, learning milestones and career updates.</p>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-</td>
-<td align="center" width="50%">
-
-<h3>🧩 LeetCode</h3>
-
-<p>DSA practice, problem solving and competitive programming progress.</p>
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="https://img.shields.io/badge/Visit%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
-</a>
-
-</td>
-</tr>
-</table>
+<sub>❄️ <strong>Identity</strong> → <strong>Focus</strong> → <strong>Mindset</strong> → <strong>Learning</strong> → <strong>Tech Stack</strong> → <strong>Analytics</strong> → <strong>Contributions</strong> ❄️</sub>
 
 </div>
 
 <br />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
 <!-- TECH STACK -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
