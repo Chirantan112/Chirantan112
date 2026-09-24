@@ -1,15 +1,18 @@
-<!-- PROFILE IDENTITY -->
+<!-- ====================================================== -->
+<!--                    PROFILE HERO                        -->
+<!-- ====================================================== -->
+
 <div align="center">
 
 # 👋 Hey, I'm **Chirantan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=88C0D0&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+%7C+AI+%26+Full-Stack+Explorer;Building+intelligent+systems+with+strong+CS+fundamentals;Learning+in+public+%7C+Open-Source+%7C+DSA;Turning+curiosity+into+working+software" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=88C0D0&center=true&vCenter=true&width=900&lines=AI+%26+Software+Engineering+Explorer;Building+intelligent+systems+from+strong+CS+fundamentals;DSA+%7C+Full-Stack+%7C+LLMs+%7C+Open+Source;Learning+by+building%2C+testing+and+iterating" alt="Typing introduction" />
 
 <p>
   <a href="https://github.com/Chirantan112">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Replace these placeholders with your real profile URLs when ready.
+  <!-- Add your profiles when you're ready:
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -19,13 +22,18 @@
   -->
 </p>
 
+<sub>❄️ <strong>What you see is the surface. The engineering underneath is the real journey.</strong> 🌊</sub>
+
 </div>
 
 <br />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
-<!-- ABOUT ME -->
+<!-- ====================================================== -->
+<!--                    ABOUT / ICEBERG                     -->
+<!-- ====================================================== -->
+
 <h2 align="left"><font color="#88c0d0">🧭 About Me</font></h2>
 
 <table>
@@ -35,15 +43,15 @@
 <h3>❄️ Above the Water</h3>
 
 <p>
-I'm a Computer Science student focused on building practical software while strengthening the fundamentals underneath it.
+I'm a Computer Science student interested in building practical software while developing the fundamentals that make systems reliable.
 </p>
 
 <ul>
   <li>🤖 Exploring <strong>AI, LLMs & intelligent systems</strong></li>
-  <li>🌐 Building toward <strong>full-stack development</strong></li>
   <li>🧠 Strengthening <strong>DSA & problem solving</strong></li>
+  <li>🌐 Growing toward <strong>full-stack engineering</strong></li>
   <li>🌱 Learning through <strong>open source & real engineering workflows</strong></li>
-  <li>🔧 Interested in turning ideas into <strong>usable, testable systems</strong></li>
+  <li>🔧 Turning ideas into <strong>usable, testable systems</strong></li>
 </ul>
 
 </td>
@@ -59,14 +67,14 @@ I'm a Computer Science student focused on building practical software while stre
 <strong>Depth over noise.</strong>
 
 <p>
-I care about understanding why a system works, where it can fail,
-and how to improve it — not just making something that looks finished.
+Understand the problem, identify the constraints, build deliberately,
+test assumptions, and improve from evidence.
 </p>
 
 </details>
 
 <details>
-<summary><strong>⚙️ How I like to build</strong></summary>
+<summary><strong>⚙️ How I build</strong></summary>
 
 <br />
 
@@ -92,8 +100,8 @@ Ship
 <br />
 
 <p>
-The visible part is the interface, the result, or the demo.
-The larger part is the reasoning, algorithms, trade-offs,
+The visible part is the interface, result, or demo.
+The larger part is the algorithms, reasoning, trade-offs,
 debugging, testing, and learning underneath it.
 </p>
 
@@ -105,32 +113,35 @@ debugging, testing, and learning underneath it.
 
 <br />
 
-<!-- CURRENT FOCUS -->
-<h2 align="left"><font color="#88c0d0">🎯 Current Focus</font></h2>
+<!-- ====================================================== -->
+<!--                    CURRENT MISSION                     -->
+<!-- ====================================================== -->
+
+<h2 align="left"><font color="#88c0d0">🎯 Current Mission</font></h2>
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br />
-  <strong>AI / ML</strong><br />
-  <sub>LLMs · Agents · Applied AI</sub>
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" /><br />
+  <strong>AI / LLMs</strong><br />
+  <sub>Agents · Applied AI</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" /><br />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++" /><br />
   <strong>DSA</strong><br />
-  <sub>Algorithms · Problem Solving</sub>
+  <sub>Algorithms · Reasoning</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://skillicons.dev/icons?i=react" width="52" alt="React" /><br />
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React" /><br />
   <strong>Full Stack</strong><br />
-  <sub>Frontend · APIs · Systems</sub>
+  <sub>UI · APIs · Systems</sub>
 </td>
 <td align="center" width="25%">
-  <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" /><br />
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" /><br />
   <strong>Open Source</strong><br />
-  <sub>Contributions · Collaboration</sub>
+  <sub>Collaboration · Contribution</sub>
 </td>
 </tr>
 </table>
@@ -139,19 +150,65 @@ debugging, testing, and learning underneath it.
 
 <br />
 
-<!-- MINDSET -->
-<h2 align="left"><font color="#88c0d0">🧠 Engineering Mindset</font></h2>
+<!-- ====================================================== -->
+<!--                 CURRENTLY BUILDING                     -->
+<!-- ====================================================== -->
 
-<details>
-<summary><strong>Click to open the “deep layer”</strong></summary>
+<h2 align="left"><font color="#88c0d0">🚧 Currently Building</font></h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<strong>🤖 AI Engineering</strong>
+
+<p>Exploring LLM applications, agents, multimodal workflows and practical AI systems.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>🧠 Problem Solving</strong>
+
+<p>Strengthening algorithmic thinking through DSA, patterns and deliberate practice.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<strong>🌐 Software Engineering</strong>
+
+<p>Learning to turn ideas into maintainable interfaces, APIs and usable products.</p>
+
+</td>
+<td width="50%" valign="top">
+
+<strong>🌱 Open Source</strong>
+
+<p>Learning how real projects are reviewed, improved, tested and shipped collaboratively.</p>
+
+</td>
+</tr>
+</table>
 
 <br />
 
-| Principle | What it means in practice |
+<!-- ====================================================== -->
+<!--                 ENGINEERING MINDSET                    -->
+<!-- ====================================================== -->
+
+<h2 align="left"><font color="#88c0d0">🌊 Engineering Mindset</font></h2>
+
+<details>
+<summary><strong>Open the deep layer</strong></summary>
+
+<br />
+
+| Principle | In practice |
 | :--- | :--- |
-| **Understand first** | Clarify the problem before touching the implementation |
-| **Keep boundaries clear** | Separate responsibilities instead of hiding complexity |
-| **Prefer evidence** | Test assumptions instead of trusting intuition alone |
+| **Understand first** | Clarify the problem before implementation |
+| **Keep boundaries clear** | Separate responsibilities and reduce hidden complexity |
+| **Prefer evidence** | Test assumptions instead of trusting intuition |
 | **Design for failure** | Treat edge cases and unavailable dependencies as part of the design |
 | **Iterate deliberately** | Build → observe → fix → improve |
 
@@ -161,8 +218,40 @@ debugging, testing, and learning underneath it.
 
 <br />
 
-<!-- CURRENTLY LEARNING -->
-<h2 align="left"><font color="#88c0d0">📚 Currently Learning</font></h2>
+<!-- ====================================================== -->
+<!--                    LEARNING PATH                       -->
+<!-- ====================================================== -->
+
+<h2 align="left"><font color="#88c0d0">📚 Learning Path</font></h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<strong>🧠 Computer Science</strong><br />
+<sub>DSA · Algorithms · Problem Solving</sub>
+</td>
+<td align="center" width="33%">
+<strong>🤖 AI Engineering</strong><br />
+<sub>LLMs · Agents · Applied AI</sub>
+</td>
+<td align="center" width="33%">
+<strong>🌐 Software Engineering</strong><br />
+<sub>Full Stack · APIs · Open Source</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- ====================================================== -->
+<!--                  CURRENTLY LEARNING                    -->
+<!-- ====================================================== -->
+
+<h2 align="left"><font color="#88c0d0">📖 Currently Learning</font></h2>
 
 <div align="center">
 
@@ -176,7 +265,10 @@ debugging, testing, and learning underneath it.
 
 <br />
 
-<!-- QUICK FACTS -->
+<!-- ====================================================== -->
+<!--                    QUICK FACTS                         -->
+<!-- ====================================================== -->
+
 <h2 align="left"><font color="#88c0d0">⚡ Quick Facts</font></h2>
 
 <details>
@@ -197,8 +289,8 @@ interests:
   - open source
 
 long_term:
-  - build products that people actually use
-  - become stronger at system-level thinking
+  - build useful products
+  - strengthen system-level thinking
   - keep going deeper than the surface
 ```
 
@@ -208,16 +300,9 @@ long_term:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 
-<hr height="5px" />
-
-<!-- PROFILE NAVIGATION -->
-<div align="center">
-
-<sub>❄️ <strong>Identity</strong> → <strong>Focus</strong> → <strong>Mindset</strong> → <strong>Learning</strong> → <strong>Tech Stack</strong> → <strong>Analytics</strong> → <strong>Contributions</strong> ❄️</sub>
-
-</div>
-
-<br />
+<!-- ====================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ====================================================== -->
 
 <!-- TECH STACK -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
@@ -308,31 +393,57 @@ long_term:
 <hr height="5px" />
 
 
+
+
+<!-- ====================================================== -->
+<!--                 GITHUB ANALYTICS                      -->
+<!-- ====================================================== -->
+
 <!--GitHub Contribution Analytics-->
 <h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
-<!--First Card-->
+
+<div align="center">
 
 ![Chirantan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chirantan112&bg_color=1e222a&text_color=ffffff&icon_color=88c0d0&title_color=88c0d0&hide_rank=true)
 
 [![Chirantan's GitHub Streak](https://streak-stats.demolab.com/?user=Chirantan112&background=1e222a&stroke=1e222a&ring=88c0d0&fire=88c0d0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=88c0d0&sideLabels=ffffff&dates=d8dee9)](https://git.io/streak-stats)
 
+</div>
+
+<br />
+
+<div align="center">
+
 [![Chirantan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&bg_color=1e222a&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-<hr height="5px" />
-<!--Contribution snake-->
-<h2 align="left"><font color="#88c0d0">🐍 Contribution Snake</font></h2>
-<br />
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Chirantan112/Chirantan112/output/github-contribution-grid-snake.svg?v=4" alt="GitHub Contribution Snake" width="100%" />
 </div>
-<br />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
-<hr height="5px" />
 
 <br />
+
+<!-- ====================================================== -->
+<!--                 CONTRIBUTION SNAKE                     -->
+<!-- ====================================================== -->
+
+<h2 align="left"><font color="#88c0d0">🐍 Contribution Snake</font></h2>
+
 <div align="center">
-<!--FOOTER WAVE-->
+
+<img src="https://raw.githubusercontent.com/Chirantan112/Chirantan112/output/github-contribution-grid-snake.svg?v=4" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<sub>❄️ <strong>Keep learning. Keep building. Keep going deeper than the surface.</strong> 🌊</sub>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161b22,50:202938,100:88c0d0&amp;height=100&amp;section=footer" width="100%" alt="Iceberg Wave Footer" />
 </div>
-
