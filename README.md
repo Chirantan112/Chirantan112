@@ -24,6 +24,10 @@
 
 <sub>❄️ <strong>What you see is the surface. The engineering underneath is the real journey.</strong> 🌊</sub>
 
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=88C0D0&center=true&vCenter=true&width=700&lines=Understand+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Iterate;Surface+%E2%86%92+Systems+%E2%86%92+Depth" alt="Engineering process animation" />
+
 </div>
 
 <br />
@@ -59,8 +63,12 @@ I'm a Computer Science student interested in building practical software while d
 
 <h3>🌊 Below the Waterline</h3>
 
+<sub>Click a layer to explore the thinking underneath.</sub>
+
+<br /><br />
+
 <details>
-<summary><strong>🧠 What I'm optimizing for</strong></summary>
+<summary><strong>🧠 Layer 1 — What I'm optimizing for</strong></summary>
 
 <br />
 
@@ -74,7 +82,7 @@ test assumptions, and improve from evidence.
 </details>
 
 <details>
-<summary><strong>⚙️ How I build</strong></summary>
+<summary><strong>⚙️ Layer 2 — How I build</strong></summary>
 
 <br />
 
@@ -95,7 +103,7 @@ Ship
 </details>
 
 <details>
-<summary><strong>🧊 Why the iceberg?</strong></summary>
+<summary><strong>🧊 Layer 3 — Why the iceberg?</strong></summary>
 
 <br />
 
@@ -292,6 +300,12 @@ debugging, testing, and learning underneath it.
 <h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
 
 <div align="center">
+<sub>A snapshot of consistency, activity and contribution over time.</sub>
+</div>
+
+<br />
+
+<div align="center">
 
 ![Chirantan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Chirantan112&bg_color=1e222a&text_color=ffffff&icon_color=88c0d0&title_color=88c0d0&hide_rank=true)
 
@@ -332,6 +346,14 @@ debugging, testing, and learning underneath it.
 <br />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
+<div align="center">
+
+<sub>❄️ <strong>Build with curiosity. Go deeper than the surface.</strong> 🌊</sub>
+
+</div>
+
+<br />
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161b22,50:202938,100:88c0d0&amp;height=100&amp;section=footer" width="100%" alt="Iceberg Wave Footer" />
