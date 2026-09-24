@@ -85,6 +85,216 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
 <hr height="5px" />
 
+<!-- PROFILE IDENTITY -->
+<div align="center">
+
+# 👋 Hey, I'm **Chirantan**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=800&color=88C0D0&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student+%7C+AI+%26+Full-Stack+Explorer;Building+intelligent+systems+with+strong+CS+fundamentals;Learning+in+public+%7C+Open-Source+%7C+DSA;Turning+curiosity+into+working+software" alt="Typing introduction" />
+
+<p>
+  <a href="https://github.com/Chirantan112">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111" alt="LeetCode" />
+  </a>
+</p>
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
+<!-- ABOUT ME -->
+<h2 align="left"><font color="#88c0d0">🧭 About Me</font></h2>
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+<h3>❄️ Above the Water</h3>
+
+<p>
+I'm a Computer Science student focused on building practical software while strengthening the fundamentals underneath it.
+</p>
+
+<ul>
+  <li>🤖 Exploring <strong>AI, LLMs & intelligent systems</strong></li>
+  <li>🌐 Building toward <strong>full-stack development</strong></li>
+  <li>🧠 Strengthening <strong>DSA & problem solving</strong></li>
+  <li>🌱 Learning through <strong>open source & real engineering workflows</strong></li>
+  <li>🔧 Interested in turning ideas into <strong>usable, testable systems</strong></li>
+</ul>
+
+</td>
+<td width="48%" valign="top">
+
+<h3>🌊 Below the Waterline</h3>
+
+<details>
+<summary><strong>🧠 What I'm optimizing for</strong></summary>
+
+<br />
+
+<strong>Depth over noise.</strong>
+
+<p>
+I care about understanding why a system works, where it can fail,
+and how to improve it — not just making something that looks finished.
+</p>
+
+</details>
+
+<details>
+<summary><strong>⚙️ How I like to build</strong></summary>
+
+<br />
+
+```text
+Understand
+    ↓
+Break the problem down
+    ↓
+Design the boundary
+    ↓
+Build the smallest useful version
+    ↓
+Test → Debug → Iterate
+    ↓
+Ship
+```
+
+</details>
+
+<details>
+<summary><strong>🧊 Why the iceberg?</strong></summary>
+
+<br />
+
+<p>
+The visible part is the interface, the result, or the demo.
+The larger part is the reasoning, algorithms, trade-offs,
+debugging, testing, and learning underneath it.
+</p>
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<!-- CURRENT FOCUS -->
+<h2 align="left"><font color="#88c0d0">🎯 Current Focus</font></h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=python" width="52" alt="Python" /><br />
+  <strong>AI / ML</strong><br />
+  <sub>LLMs · Agents · Applied AI</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=cpp" width="52" alt="C++" /><br />
+  <strong>DSA</strong><br />
+  <sub>Algorithms · Problem Solving</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=react" width="52" alt="React" /><br />
+  <strong>Full Stack</strong><br />
+  <sub>Frontend · APIs · Systems</sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub" /><br />
+  <strong>Open Source</strong><br />
+  <sub>Contributions · Collaboration</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- MINDSET -->
+<h2 align="left"><font color="#88c0d0">🧠 Engineering Mindset</font></h2>
+
+<details>
+<summary><strong>Click to open the “deep layer”</strong></summary>
+
+<br />
+
+| Principle | What it means in practice |
+| :--- | :--- |
+| **Understand first** | Clarify the problem before touching the implementation |
+| **Keep boundaries clear** | Separate responsibilities instead of hiding complexity |
+| **Prefer evidence** | Test assumptions instead of trusting intuition alone |
+| **Design for failure** | Treat edge cases and unavailable dependencies as part of the design |
+| **Iterate deliberately** | Build → observe → fix → improve |
+
+<br />
+
+</details>
+
+<br />
+
+<!-- CURRENTLY LEARNING -->
+<h2 align="left"><font color="#88c0d0">📚 Currently Learning</font></h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-88c0d0?style=for-the-badge&labelColor=1e222a" alt="DSA" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/LLM%20Engineering-88c0d0?style=for-the-badge&labelColor=1e222a" alt="LLM Engineering" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Full Stack Development" />
+<img src="https://img.shields.io/badge/Open%20Source-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Open Source" />
+
+</div>
+
+<br />
+
+<!-- QUICK FACTS -->
+<h2 align="left"><font color="#88c0d0">⚡ Quick Facts</font></h2>
+
+<details>
+<summary><strong>Tap to reveal</strong></summary>
+
+<br />
+
+```yaml
+mindset:
+  - learn by building
+  - understand before optimizing
+  - document what matters
+
+interests:
+  - artificial intelligence
+  - software engineering
+  - algorithms
+  - open source
+
+long_term:
+  - build products that people actually use
+  - become stronger at system-level thinking
+  - keep going deeper than the surface
+```
+
+</details>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20px" />
+
+<hr height="5px" />
+
 <!--GitHub Contribution Analytics-->
 <h2 align="left"><font color="#88c0d0">📊 GitHub Contribution Analytics</font></h2>
 <!--First Card-->
