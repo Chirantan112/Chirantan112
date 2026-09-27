@@ -320,7 +320,7 @@ debugging, testing, and learning underneath it.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Chirantan112/Chirantan112/activity-assets/activity-365d.svg" alt="Chirantan's GitHub contribution activity" width="100%" />
+[![Chirantan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chirantan112&bg_color=1e222a&color=88c0d0&line=88c0d0&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
