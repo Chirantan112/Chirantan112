@@ -197,10 +197,10 @@ debugging, testing, and learning underneath it.
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/DSA-88c0d0?style=for-the-badge&labelColor=1e222a" alt="DSA" />
-<img src="https://img.shields.io/badge/AI%20%26%20LLMs-88c0d0?style=for-the-badge&labelColor=1e222a" alt="AI and LLMs" />
-<img src="https://img.shields.io/badge/Full--Stack-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Full Stack" />
-<img src="https://img.shields.io/badge/Open%20Source-88c0d0?style=for-the-badge&labelColor=1e222a" alt="Open Source" />
+<img src="https://img.shields.io/badge/DSA-6f9faf?style=for-the-badge&labelColor=1e222a" alt="DSA" />
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-6f9faf?style=for-the-badge&labelColor=1e222a" alt="AI and LLMs" />
+<img src="https://img.shields.io/badge/Full--Stack-6f9faf?style=for-the-badge&labelColor=1e222a" alt="Full Stack" />
+<img src="https://img.shields.io/badge/Open%20Source-6f9faf?style=for-the-badge&labelColor=1e222a" alt="Open Source" />
 
 </div>
 
